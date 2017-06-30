@@ -1,5 +1,21 @@
 body{
+    
     text-align: center;
     font-family: "Arial";
-    background-color: red;
+    background-image: url(https://pbs.twimg.com/media/C10y63rWIAUIa9a.jpg)
+}
+
+img{
+    height: 150px;
+    
+}
+h1{
+    color: indigo;
+    font-style:italic;
+    font: OCR A Std, monospace;
+    font-weight: bolder; 
+}
+p{
+    color: indigo;
+    font-weight: bolder;
 }
